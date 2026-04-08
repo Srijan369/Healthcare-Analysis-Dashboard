@@ -1,5 +1,3 @@
-# Healthcare-Analysis-Dashboard
-Interactive Power BI dashboard analyzing healthcare data with patient insights, hospital performance, and billing trends.
 # 🏥 Healthcare Analysis Dashboard
 
 ## 📌 Project Overview
@@ -80,9 +78,9 @@ Healthcare dataset containing:
 
 ## 📸 Dashboard Preview
 
-<img width="1280" height="720" alt="Screenshot 2026-04-08 204250" src="https://github.com/user-attachments/assets/8688ef8c-eb53-4427-b004-ea2836785b29" />
-<img width="1286" height="722" alt="Screenshot 2026-04-08 204420" src="https://github.com/user-attachments/assets/33f49c9a-b361-46d5-a002-47296a091a84" />
-<img width="1282" height="727" alt="Screenshot 2026-04-08 204311" src="https://github.com/user-attachments/assets/23e81b1d-6c38-45c5-9f6a-60506e0467fb" />
+<img width="1284" height="722" alt="image" src="https://github.com/user-attachments/assets/5167e35b-04dd-4310-9d35-93b6bb88e80a" />
+<img width="1283" height="720" alt="image" src="https://github.com/user-attachments/assets/14394faf-965e-472f-b315-66918983caf6" />
+<img width="1284" height="724" alt="image" src="https://github.com/user-attachments/assets/38c84ac9-16a8-4c2f-b9b8-2c1bb59c5001" />
 
 ---
 
